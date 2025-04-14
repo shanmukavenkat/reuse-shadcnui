@@ -1,3 +1,13 @@
+#🚀 Vite + ShadCN UI Starter Kit
+This project is a minimal, high-performance starter template built with Vite and styled using ShadCN UI — a powerful, accessible, and customizable UI component library based on Radix and Tailwind CSS.
+
+💡 It’s designed to be reusable, scalable, and developer-friendly, making it easy for anyone to jump-start their frontend projects with consistent design and clean architecture.
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
